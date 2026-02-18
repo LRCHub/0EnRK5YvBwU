@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "No Role Modelz",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T13:33:44.948690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Role Modelz [Explicit]",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/02_No_Role_Modelz_[Explicit]_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Role Modelz - Live",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/03_No_Role_Modelz_-_Live_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/04_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/05_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/06_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/07_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/09_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "Bas/ J. Cole",
+      "has_synced": true,
+      "path": "select/10_No_Role_Modelz_Bas__J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/11_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/12_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Role Modelz Slowed - Remix",
+      "artist": "Safenokk",
+      "has_synced": false,
+      "path": "select/13_No_Role_Modelz_Slowed_-_Remix_Safenokk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/14_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Role Modelz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/15_No_Role_Modelz_J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Role Modelz",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_No_Role_Modelz_J.Cole.txt"
+    }
+  ]
+}
